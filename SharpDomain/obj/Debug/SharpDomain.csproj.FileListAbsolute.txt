@@ -1,0 +1,9 @@
+F:\git\SharpNeedle\SharpDomain\bin\Debug\SharpDomain.dll
+F:\git\SharpNeedle\SharpDomain\bin\Debug\SharpDomain.pdb
+F:\git\SharpNeedle\SharpDomain\obj\Debug\SharpDomain.dll
+F:\git\SharpNeedle\SharpDomain\obj\Debug\SharpDomain.pdb
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\SharpDomain.dll
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\SharpDomain.pdb
+F:\git\SharpNeedle\SharpDomain\obj\Debug\SharpDomain.Properties.Resources.resources
+F:\git\SharpNeedle\SharpDomain\obj\Debug\SharpDomain.csproj.GenerateResource.Cache
+F:\git\SharpNeedle\SharpDomain\obj\Debug\SharpDomain.csprojResolveAssemblyReference.cache

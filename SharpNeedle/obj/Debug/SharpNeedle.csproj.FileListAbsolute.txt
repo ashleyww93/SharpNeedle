@@ -1,0 +1,13 @@
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\SharpNeedle.exe.config
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\SharpNeedle.exe
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\SharpNeedle.pdb
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\Fasm.NET.dll
+F:\git\SharpNeedle\SharpNeedle\obj\Debug\SharpNeedle.NeedleForm.resources
+F:\git\SharpNeedle\SharpNeedle\obj\Debug\SharpNeedle.Properties.Resources.resources
+F:\git\SharpNeedle\SharpNeedle\obj\Debug\SharpNeedle.csproj.GenerateResource.Cache
+F:\git\SharpNeedle\SharpNeedle\obj\Debug\SharpNeedle.exe
+F:\git\SharpNeedle\SharpNeedle\obj\Debug\SharpNeedle.pdb
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\MemorySharp.dll
+F:\git\SharpNeedle\SharpNeedle\obj\Debug\SharpNeedle.csprojResolveAssemblyReference.cache
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\MemorySharp.pdb
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\MemorySharp.xml

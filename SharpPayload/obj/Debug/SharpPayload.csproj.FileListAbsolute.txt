@@ -1,0 +1,6 @@
+F:\git\SharpNeedle\SharpPayload\bin\Debug\SharpPayload.dll
+F:\git\SharpNeedle\SharpPayload\bin\Debug\SharpPayload.pdb
+F:\git\SharpNeedle\SharpPayload\obj\Debug\SharpPayload.dll
+F:\git\SharpNeedle\SharpPayload\obj\Debug\SharpPayload.pdb
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\SharpPayload.dll
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\SharpPayload.pdb

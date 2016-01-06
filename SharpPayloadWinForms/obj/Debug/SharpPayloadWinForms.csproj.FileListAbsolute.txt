@@ -1,0 +1,9 @@
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\SharpPayloadWinForms.exe.config
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\SharpPayloadWinForms.exe
+F:\git\SharpNeedle\SharpNeedle\bin\Debug\SharpPayloadWinForms.pdb
+F:\git\SharpNeedle\SharpPayloadWinForms\obj\Debug\SharpPayloadWinForms.csprojResolveAssemblyReference.cache
+F:\git\SharpNeedle\SharpPayloadWinForms\obj\Debug\SharpPayloadWinForms.Properties.Resources.resources
+F:\git\SharpNeedle\SharpPayloadWinForms\obj\Debug\SharpPayloadWinForms.csproj.GenerateResource.Cache
+F:\git\SharpNeedle\SharpPayloadWinForms\obj\Debug\SharpPayloadWinForms.exe
+F:\git\SharpNeedle\SharpPayloadWinForms\obj\Debug\SharpPayloadWinForms.pdb
+F:\git\SharpNeedle\SharpPayloadWinForms\obj\Debug\SharpPayloadWinForms.Form1.resources

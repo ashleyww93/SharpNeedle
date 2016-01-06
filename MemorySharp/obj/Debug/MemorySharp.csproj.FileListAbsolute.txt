@@ -1,0 +1,7 @@
+F:\git\SharpNeedle\MemorySharp\obj\Debug\MemorySharp.csprojResolveAssemblyReference.cache
+F:\git\SharpNeedle\MemorySharp\bin\Debug\MemorySharp.XML
+F:\git\SharpNeedle\MemorySharp\bin\Debug\MemorySharp.dll
+F:\git\SharpNeedle\MemorySharp\bin\Debug\MemorySharp.pdb
+F:\git\SharpNeedle\MemorySharp\bin\Debug\Fasm.NET.dll
+F:\git\SharpNeedle\MemorySharp\obj\Debug\MemorySharp.dll
+F:\git\SharpNeedle\MemorySharp\obj\Debug\MemorySharp.pdb
