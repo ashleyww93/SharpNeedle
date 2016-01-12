@@ -7,9 +7,9 @@ An Open Source .Net assembly injector
 Visual Stuido 2013 or above (You can get VS2015 Community Edition for free here: https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
 
 #Usages
-SharpNeedle can inject any .Net payload into any remote process quickly. It supports both dlls and exe assembiles and you don't need to give any more information other than the directory and the assembly name to in injector.
+SharpNeedle can inject any .Net payload into any remote process quickly. It supports both dlls and exe assembiles and you don't need to give any more information other than the directory and the assembly name to in the injector.
 
-Since C# dlls cannot have an EntryPoint or DLLMain(C++) most injects require a TypeName, SharpNeedle however will look for a method with a [STAThread] Attribute and use that are your EntryPoint
+Since C# dlls cannot have an EntryPoint or DLLMain(C++) most injectors require a TypeName, SharpNeedle however will look for a method with a [STAThread] Attribute and use that for your EntryPoint
 
 So your payload dll should have ONE method like this:
 ```c#
